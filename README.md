@@ -31,7 +31,7 @@ Goal: Become a Software Engineer.
  ## 🌐 Connect with me
 
 <a href="https://www.instagram.com/trishaalasharma05/"><img src="https://skillicons.dev/icons?i=instagram"></a>
-<a href="www.linkedin.com/in/trishaala-sharma-3b1806332"><img src="https://skillicons.dev/icons?i=linkedin"></a>
+<a href="https://www.linkedin.com/in/trishaala-sharma-3b1806332/"><img src="https://skillicons.dev/icons?i=linkedin"></a>
 
  ## 📊 GitHub Stats
 
