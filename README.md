@@ -1,7 +1,7 @@
 ## <h1 align="center">Hi 👋, I'm Trishaala Sharma</h1>
 <h3 align="center">A MERN Stack Developer</h3>
 
-## <p align="center">
+<p align="center">
   <img src="" />
 </p>
 
@@ -9,7 +9,7 @@
 Passionate about building scalable web apps.
 Goal: Become a Software Engineer.
 
-💼 Tech Stack
+💼 <h2>Tech Stack</h2>
  <h4>Frontend</h4>
  <div style="display:flex;">
    <img src="https://skillicons.dev/icons?i=html">
