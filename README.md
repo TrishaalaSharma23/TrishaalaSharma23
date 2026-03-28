@@ -34,7 +34,5 @@ Goal: Become a Software Engineer.
 <a href="www.linkedin.com/in/trishaala-sharma-3b1806332"><img src="https://skillicons.dev/icons?i=linkedin"></a>
 
  ## 📊 GitHub Stats
- 
-![Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
 
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=TrishaalaSharma23&theme=radical)
