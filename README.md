@@ -2,7 +2,7 @@
 <h3 align="center">A MERN Stack Developer</h3>
 
 <p align="center">
-  <img src="" />
+  <img src="https://raw.githubusercontent.com/TrishaalaSharma23/TrishaalaSharma23/main/BannerImg.png" />
 </p>
 
 ## 👨‍💻 About Me
