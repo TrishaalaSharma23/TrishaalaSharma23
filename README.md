@@ -6,8 +6,8 @@
 </p>
 
 ## 👨‍💻 About Me
-Passionate about building scalable web apps. <br>
-Goal: Become a Software Engineer.
+Passionate about building web applications. <br>
+Goal: Becoming a skilled Software Engineer.
 
 <h2>💼 Tech Stack</h2>
  <h4>Frontend</h4>
