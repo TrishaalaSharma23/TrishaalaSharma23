@@ -7,7 +7,7 @@
 
 ## 👨‍💻 About Me
 Passionate about building web apps. <br>
-Goal: Becoming a skilled Software Engineer.
+Goal: Becoming a skilled and passionate Software Engineer.
 
 <h2>💼 Tech Stack</h2>
  <h4>Frontend</h4>
